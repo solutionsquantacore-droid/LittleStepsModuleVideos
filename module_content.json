@@ -43,5 +43,14 @@
         "video_url": "https://www.youtube.com/watch?v=tQXX_EQHdP4"
       }
     ]
+  },
+  {
+    "module": "Animals",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=4jeHK_9NiXI"
+      }
+    ]
   }
 ]
