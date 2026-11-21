@@ -52,5 +52,14 @@
         "video_url": "https://www.youtube.com/watch?v=4jeHK_9NiXI"
       }
     ]
+  },
+  {
+    "module": "BodyParts",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=Ahd57u4wr7o"
+      }
+    ]
   }
 ]
