@@ -1,0 +1,47 @@
+[
+  {
+    "module": "ABC",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=ic87_vBHWJc"
+      }
+    ]
+  },
+  {
+    "module": "Fruits",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=0gNAeYtsT7k"
+      }
+    ]
+  },
+  {
+    "module": "Vehicles",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=BZf6frPNrhg"
+      }
+    ]
+  },
+  {
+    "module": "Flowers",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=So_ZyxmDou0"
+      }
+    ]
+  },
+  {
+    "module": "Vegetables",
+    "enabled": true,
+    "content": [
+      {
+        "video_url": "https://www.youtube.com/watch?v=tQXX_EQHdP4"
+      }
+    ]
+  }
+]
