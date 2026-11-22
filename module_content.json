@@ -1,7 +1,7 @@
 [
   {
     "module": "ABC",
-    "enabled": true,
+    "enabled": false,
     "content": [
       {
         "video_url": "https://www.youtube.com/watch?v=ic87_vBHWJc"
