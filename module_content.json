@@ -1,10 +1,13 @@
 [
   {
     "module": "ABC",
-    "enabled": false,
+    "enabled": true,
     "content": [
       {
         "video_url": "https://www.youtube.com/watch?v=ic87_vBHWJc"
+      },
+      {
+        "video_url": "https://www.youtube.com/watch?v=Nkmarl4ynRM"
       }
     ]
   },
